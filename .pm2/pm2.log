@@ -1,0 +1,33 @@
+2024-11-04T05:35:05: PM2 log: ===============================================================================
+2024-11-04T05:35:05: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-11-04T05:35:05: PM2 log: Time                 : Mon Nov 04 2024 05:35:05 GMT+0000 (Coordinated Universal Time)
+2024-11-04T05:35:05: PM2 log: PM2 version          : 5.4.2
+2024-11-04T05:35:05: PM2 log: Node.js version      : 18.20.2
+2024-11-04T05:35:05: PM2 log: Current arch         : x64
+2024-11-04T05:35:05: PM2 log: PM2 home             : /home/ec2-user/.pm2
+2024-11-04T05:35:05: PM2 log: PM2 PID file         : /home/ec2-user/.pm2/pm2.pid
+2024-11-04T05:35:05: PM2 log: RPC socket file      : /home/ec2-user/.pm2/rpc.sock
+2024-11-04T05:35:05: PM2 log: BUS socket file      : /home/ec2-user/.pm2/pub.sock
+2024-11-04T05:35:05: PM2 log: Application log path : /home/ec2-user/.pm2/logs
+2024-11-04T05:35:05: PM2 log: Worker Interval      : 30000
+2024-11-04T05:35:05: PM2 log: Process dump file    : /home/ec2-user/.pm2/dump.pm2
+2024-11-04T05:35:05: PM2 log: Concurrent actions   : 2
+2024-11-04T05:35:05: PM2 log: SIGTERM timeout      : 1600
+2024-11-04T05:35:05: PM2 log: ===============================================================================
+2024-11-04T05:35:05: PM2 log: App [app:0] starting in -fork mode-
+2024-11-04T05:35:05: PM2 log: App [app:0] online
+2024-11-04T05:45:36: PM2 log: Stopping app:app id:0
+2024-11-04T05:45:36: PM2 log: App [app:0] exited with code [0] via signal [SIGINT]
+2024-11-04T05:45:36: PM2 log: pid=26571 msg=process killed
+2024-11-04T05:45:36: PM2 log: App [app:0] starting in -fork mode-
+2024-11-04T05:45:36: PM2 log: App [app:0] online
+2024-11-04T05:50:18: PM2 log: Stopping app:app id:0
+2024-11-04T05:50:18: PM2 log: App [app:0] exited with code [0] via signal [SIGINT]
+2024-11-04T05:50:18: PM2 log: pid=27009 msg=process killed
+2024-11-04T05:50:18: PM2 log: App [app:0] starting in -fork mode-
+2024-11-04T05:50:18: PM2 log: App [app:0] online
+2024-11-04T05:55:14: PM2 log: Stopping app:app id:0
+2024-11-04T05:55:14: PM2 log: App [app:0] exited with code [0] via signal [SIGINT]
+2024-11-04T05:55:15: PM2 log: pid=27161 msg=process killed
+2024-11-04T05:55:15: PM2 log: App [app:0] starting in -fork mode-
+2024-11-04T05:55:15: PM2 log: App [app:0] online
